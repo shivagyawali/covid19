@@ -1,0 +1,20 @@
+{
+  "name": "corona-tracker-app",
+  "version": "1.0.0",
+  "description": "corona-virus tracking application",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "corona-v19"
+  ],
+  "author": "shivagyawali",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "3.0.1",
+    "express": "4.17.1",
+    "express-ejs-layouts": "2.5.0",
+    "nodemon": "2.0.2"
+  }
+}

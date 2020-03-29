@@ -1,0 +1,24 @@
+{
+    "Countries": [
+        {
+            "Country": "",
+            "Slug": "",
+            "NewConfirmed": 0,
+            "TotalConfirmed": 0,
+            "NewDeaths": 0,
+            "TotalDeaths": 0,
+            "NewRecovered": 0,
+            "TotalRecovered": 0
+        },
+        {
+            "Country": "Afghanistan",
+            "Slug": "afghanistan",
+            "NewConfirmed": 0,
+            "TotalConfirmed": 110,
+            "NewDeaths": 0,
+            "TotalDeaths": 4,
+            "NewRecovered": 0,
+            "TotalRecovered": 2
+        }
+    ]
+}

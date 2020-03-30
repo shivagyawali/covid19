@@ -4,7 +4,7 @@ Web app that shows the real time data of covid19..
 
 ## Getting Started
 
-node app.js
+To get started with this project follow the following steps:
 
 ### Prerequisites
 
